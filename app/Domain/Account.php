@@ -13,6 +13,11 @@ class Account
 
     public array $children;
 
+    public array $members;
+
+    public array $permissionGroups;
+
+
     //config
 
     //main admin
